@@ -52,3 +52,14 @@ Delete will delete a specific student
 
 5. As a developer, you are making an application to manage your to do list. Create 10 user stories that will help you get your application started. Read more about [user stories](https://www.atlassian.com/agile/project-management/user-stories).
 
+As a user I can see the Home Screen of a To-Do list website
+As a user I can click the log in icon on the top right hand corner to login
+As a user I can type in my user name and password
+As a new user I typed in my username, and a password (that did not meet the requirements to create a login
+As new user I made an password that fit the criteria for signing into the to-do list webpage
+As a user I can see a plethora of to do list templates
+As a user I click a random to do list template
+As a user I put 3 of the 4 required fields
+As a user I cannot continue because of 4 fields must be filled out
+As a user I finished the field that was empty and I was able to add an item to my to do list 
+
